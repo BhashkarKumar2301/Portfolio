@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <img alt="readme-img" src="./Images/readme-img1.png" />
+  <img alt="readme-img" src="Images/readme-img1.png" width="600" />
 </p>
 
 <p align="center">
@@ -15,32 +15,34 @@
 
 ---
 
-This project was built using these technologies:
+## 🛠 Built With
+
+This project was built using the following technologies:
 
 - **React.js**
 - **Node.js**
 - **Express.js**
 - **CSS3**
-- **VS Code**
-- **Vercel**
+- **Visual Studio Code**
+- **Vercel (for deployment)**
 
 ---
 
 ## ✨ Features
 
 - 📖 **Multi-Page Layout**
-- 🎨 **Styled with React-Bootstrap and CSS — easy to customize**
+- 🎨 **Styled with React-Bootstrap and CSS – Easy to customize**
 - 📱 **Fully Responsive Design**
 
 ---
 
 ## 🚀 Getting Started
 
-Clone this repository. You will need **Node.js** and **Git** installed globally on your machine.
+Clone this repository. Make sure you have **Node.js** and **Git** installed globally.
 
 ---
 
-## 🛠 Installation and Setup Instructions
+## 📦 Installation and Setup
 
 ```bash
 # 1. Install dependencies
