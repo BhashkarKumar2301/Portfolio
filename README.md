@@ -1,17 +1,6 @@
-<h2 align="center">
-  Portfolio Website <br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Bhashkar Kumar Jha</a>
-</h2>
+# Portfolio Website
 
-<p align="center">
-  <img alt="readme-img" src="Images/readme-img1.png" width="600" />
-</p>
-
-<p align="center">
-  <a href="https://forthebadge.com">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built-with-love" />
-  </a>
-</p>
+## 👨‍💻 Bhashkar Kumar Jha
 
 ---
 
@@ -24,7 +13,6 @@ This project was built using the following technologies:
 - **Express.js**
 - **CSS3**
 - **Visual Studio Code**
-- **Vercel (for deployment)**
 
 ---
 
